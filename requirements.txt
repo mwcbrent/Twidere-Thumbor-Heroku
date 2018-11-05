@@ -1,1 +1,1 @@
-thumbor>=6.1.5
+thumbor>=6.5.2
